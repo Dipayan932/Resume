@@ -1,0 +1,27 @@
+html{
+    font-size: 22px;
+}
+
+img{
+    height: 100px;
+    padding: 0px;
+}
+
+.image{
+    border: 2px solid black;
+    width: 100px;
+    text-align: center;
+    margin-left: 90%;
+    
+}
+
+
+.container{
+    margin: 100px;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+hr{
+    font-weight:bold;
+}
