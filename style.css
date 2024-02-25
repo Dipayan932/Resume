@@ -3,15 +3,15 @@ html{
 }
 
 img{
-    height: 100px;
+    height: 150px;
     padding: 0px;
 }
 
 .image{
     border: 2px solid black;
-    width: 100px;
+    width: 150px;
     text-align: center;
-    margin-left: 90%;
+    margin-left: 85%;
     
 }
 
